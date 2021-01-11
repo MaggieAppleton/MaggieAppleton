@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Designer-anthropologist-developer growing wild code and gardening information
 <!--
 **MaggieAppleton/MaggieAppleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
